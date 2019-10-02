@@ -1,5 +1,4 @@
 @import "bootstrap";
-@import url('https://fonts.googleapis.com/css?family=Alegreya&display=swap');
 
 .clear {
   clear: both;
@@ -39,6 +38,8 @@
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'nobileregular', sans-serif;
+  font-weight: bold;
 }
 
 header {
@@ -50,9 +51,11 @@ hr {
 }
 
 h1 {
-  font-family: 'Alegreya', serif;
+  font-family: 'goodfishregular', serif;
+  font-weight: bold;
+  font-size: 48px;
 }
 
 h2 {
-  font-family: 'Alegreya', serif;
+  font-family: 'goodfishbold_italic', serif;
 }  
